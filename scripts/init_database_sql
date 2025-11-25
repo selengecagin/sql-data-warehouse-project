@@ -1,0 +1,9 @@
+/*
+===================================================
+Create Database and Schemas
+===================================================
+WARNING: 
+    Running this script will drop the entire 'DataWarehouse' database if it exists. 
+    All data in this database will be premanently deleted. Proceed with caution
+    and ensure you have a proper backup before running this script. 
+*/ 
